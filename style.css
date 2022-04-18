@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 10px 10px 10px 10px;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+}
+body{
+    background-color: rgb(238, 10, 10) ;
+}
+ .img{
+    display: flex;
+    width: 200px !important;
+    height: 200px !important;
+}
+.anaBaslık{
+    display: inline;
+}
+
+.bir { display: inline;
+    float: right; 
+    margin-right:550px;
+    margin-top: -384px; }
+.iki {
+    display: inline;
+    float: right; 
+    margin-right: 390px;
+    margin-top: -384px; }
+
+.üç{display:inline;
+    float: right;
+    margin-right: 250px;
+    margin-top: -384px;
+}
+.malzemeler{
+    display: inline;
+    float: right;
+    margin-right: 300px;
+    margin-top:-370px ;
+}
+.yapılıs{
+    display: inline;
+    float: right;
+    margin-right: 325px;
+    margin-top:-200px ;
+}
+ h4.son{
+    display: inline !important;
+    float: right;
+    margin-right: -10px;
+}
